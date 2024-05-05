@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SegundoParcial</string>
+    <string name="id">ID producto</string>
+    <string name="nombrepro">Nombre Producto</string>
+    <string name="precio">Precio</string>
+    <string name="costo">Costo</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="cancelar">CANCELAR</string>
+    <string name="boton_consultar">CONSULTAR</string>
+    <string name="boton_eliminar">ELIMINAR</string>
+    <string name="boton_listado">LISTADO</string>
+    <string name="boton_actualizar">ACTUALIZAR</string>
+
+</resources>
